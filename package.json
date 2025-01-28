@@ -1,13 +1,21 @@
 {
   "name": "@ai.ntellect/workflow",
   "version": "1.0.0",
-  "description": "",
+  "description": "A robust framework for managing and executing workflows, supporting dynamic decision-making, conditional paths, event-driven execution, and state persistence.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rm -rf dist && tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Lorcann Rauzduel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-ntellect/workflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ai-ntellect/workflow/issues"
+  },
+  "homepage": "https://github.com/ai-ntellect/workflow#readme"
 }

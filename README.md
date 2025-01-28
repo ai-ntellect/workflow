@@ -191,11 +191,3 @@ workflow.addSubWorkflow(
   "processContent"
 );
 ```
-
-## Author
-
-Lorcann Rauzduel
-
-## License
-
-This project is licensed under the MIT License.
